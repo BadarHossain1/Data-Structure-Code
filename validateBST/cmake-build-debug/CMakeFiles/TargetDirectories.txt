@@ -1,0 +1,3 @@
+C:/Users/FALCON DUBAI/CLionProjects/validateBST/cmake-build-debug/CMakeFiles/validateBST.dir
+C:/Users/FALCON DUBAI/CLionProjects/validateBST/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/FALCON DUBAI/CLionProjects/validateBST/cmake-build-debug/CMakeFiles/rebuild_cache.dir
