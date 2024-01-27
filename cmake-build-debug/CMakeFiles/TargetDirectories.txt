@@ -1,0 +1,3 @@
+C:/Users/FALCON DUBAI/CLionProjects/VALIDPARENTHESIS/cmake-build-debug/CMakeFiles/VALIDPARENTHESIS.dir
+C:/Users/FALCON DUBAI/CLionProjects/VALIDPARENTHESIS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/FALCON DUBAI/CLionProjects/VALIDPARENTHESIS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
